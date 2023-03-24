@@ -1,10 +1,10 @@
 # PS-Workstation-Update-Email
 This was written over one year ago. The method of sending mail has been replaced with the graph API becoming mandatory. 
 
-Device Update Reminder Script
+# Device Update Reminder Script
 This PowerShell script automates the process of sending custom email reminders to users, notifying them about the need for a Windows update on their devices. It is particularly useful for organizations that need to ensure their devices are always up-to-date and secure, reducing the risk of security breaches and improving overall system performance.
 
-Features
+## Features
 Retrieves device information from a vulnerability report spreadsheet.
 Enumerates users from the organization's Global Address List (GAL) in Microsoft Outlook.
 Filters devices that are already updated or have missing information.
