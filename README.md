@@ -3,7 +3,7 @@ This was written over one year ago. The method of sending mail and enumerating u
 
 # Device Update Reminder Script
 
-This PowerShell script automates the process of sending custom email reminders to users, notifying them about the need for a Windows update on their devices. It is particularly useful for organizations that need to ensure their devices are always up-to-date and secure, reducing the risk of security breaches and improving overall system performance.
+This PowerShell script automates the process of sending custom email reminders to users, notifying them about the need for a Windows(or other software) update on their devices. It is particularly useful for organizations that need to ensure their devices are always up-to-date and secure, reducing the risk of security breaches and improving overall system performance.
 
 ## Features
 
